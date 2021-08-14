@@ -5,7 +5,6 @@
 
 # How to reload text data
 - Please see the `reload_df_data.py`.
-- 
 
 # How to cite this challenge:
 
