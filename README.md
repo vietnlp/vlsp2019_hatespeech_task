@@ -1,5 +1,11 @@
+# Overview
+- Description of the task: https://vlsp.org.vn/vlsp2019/eval/hsd
+- Paper: https://arxiv.org/abs/2007.06493
+- How to get the data: please sign this form and follow the instruction: https://drive.google.com/drive/u/2/folders/1HSOWdiMFQy0bjd09TBYaI7lsf7iYZaq5 (select HSD Agreement form).
+
 # How to reload text data
 - Please see the `reload_df_data.py`.
+- 
 
 # How to cite this challenge:
 
